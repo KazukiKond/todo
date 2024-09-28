@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+# Mac System Files
+.DS_Store
+Thumbs.db
